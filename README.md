@@ -1,2 +1,2 @@
-# Apache_Spark_Data_Exploration_Notes
+# Apache Spark Data Exploration Notes
 Notes from a class I took on Pluralsight
